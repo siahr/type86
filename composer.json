@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "@stable"
+    },
+    "autoload": {
+        "psr-0": { "": ["vendor/jp.infinite/"] }
+    }
+}
