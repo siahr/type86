@@ -5,7 +5,10 @@
  *
  * DB abstraction class, also functionary as utility class.
  *
- * @license http://www.wtfpl.net/txt/copying/ WTFPL
+ * @package type86
+ * @author	Toshio HIRAI <toshio.hirai@gmail.com>
+ * @copyright	Copyright (c) 2017, Infinite Corporation.
+ * @license	http://opensource.org/licenses/MIT	MIT License
  *
  */
 abstract class DB {
