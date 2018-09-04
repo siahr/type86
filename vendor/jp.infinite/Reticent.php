@@ -6,7 +6,10 @@
  * Reticent (not *Eloquent*) query builder.
  * (Optimized for PostgreSQL)
  *
- * @license MIT
+ * @package type86
+ * @author	Toshio HIRAI <toshio.hirai@gmail.com>
+ * @copyright	Copyright (c) 2017, Infinite Corporation.
+ * @license	http://opensource.org/licenses/MIT	MIT License
  *
  */
 class Reticent extends DB {
