@@ -2,9 +2,11 @@
 
 /**
  * Class Reticent
- * Reticent (not *Eloquent*) query builder.
  *
- * @license http://www.wtfpl.net/txt/copying/ WTFPL
+ * Reticent (not *Eloquent*) query builder.
+ * (Optimized for PostgreSQL)
+ *
+ * @license MIT
  *
  */
 class Reticent extends DB {
